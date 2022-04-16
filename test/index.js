@@ -1,4 +1,4 @@
-const OrderID = require("orderid-generator")
+const OrderID = require("ordersid-generator")
 
 
 console.log(OrderID("short","SKYGOAL"))
