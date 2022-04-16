@@ -1,11 +1,11 @@
 # Orderid-generator
 
 ### Arguments
-> orderid(type,name)
+> //orderid(type,name)
 
-### npm i @dibya29/orderid-generator
+> npm i @dibya29/orderid-generator
 
-### const orderid = require("@dibya29/orderid-generator")
+> const orderid = require("@dibya29/orderid-generator")
 
 ## if you need short order id
 
