@@ -1,7 +1,7 @@
 # Ordersid-generator
 
-### USage
-<> //orderid(type,name)</>
+### Usage
+> //orderid(type,name)
 
 > npm i ordersid-generator
 
