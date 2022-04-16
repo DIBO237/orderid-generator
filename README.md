@@ -1,17 +1,20 @@
 # Orderid-generator
 
-### npm i @dibya29/orderid-generator
+### Arguments
+> //orderid(type,name)
 
-### const orderid = require("@dibya29/orderid-generator")
+> npm i @dibya29/orderid-generator
+
+> const orderid = require("@dibya29/orderid-generator")
 
 ## if you need short order id
 
-### orderid()
+> orderid()
 
 ## if you need long order id
 
-### orderid("long")
+> orderid("long")
 
 ## if you want to add company name
 
-### orderid("long","any name")
+> orderid("long","any name")
