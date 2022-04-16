@@ -1,6 +1,6 @@
 {
-  "name": "order-id-generator",
-  "version": "1.7.0",
+  "name": "ordersid-generator",
+  "version": "1.8.0",
   "description": "",
   "main": "index.js",
   "scripts": {
